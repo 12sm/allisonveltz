@@ -124,6 +124,9 @@ a#talk_btn:hover{
 .page-template-template-splash-php header {
 display: none;
 }
+.bottom-row{
+   padding: 5% 0px;
+}
 /* Small devices (tablets, 768px and up) */
 @media (min-width: 768px) {
 #social-float>ul{
