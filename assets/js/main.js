@@ -25,7 +25,7 @@ var Roots = {
       // JavaScript to be fired on all pages
       $("#id_email").attr("placeholder", "Email");
       $("#id_member_field_postal_code").attr("placeholder", "Zip Code");
-      $('#e2ma_signup_submit_button').attr('value', '{<span class="italic">Sign me up</span>!}');
+      $('#e2ma_signup_submit_button').attr('value', '{ Sign me up! }');
     }
   },
   // Home page
