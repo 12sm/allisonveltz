@@ -28,6 +28,11 @@ h1, h2{
    font-family: 'abril-fatface';
 }
 h1{
+   font-size: 40px;
+   font-style: italic;
+   color: #BB2F7E;
+}
+h2{
    font-size: 38px;
    color: #BB2F7E;
    font-style: italic;
