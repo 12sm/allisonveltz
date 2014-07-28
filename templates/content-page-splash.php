@@ -20,7 +20,7 @@
 	</div>
 </div>
 <div class="row">
-	<div class='col-sm-6 col-sm-offset-3'>
+	<div class='col-sm-6 col-sm-offset-3 center-text'>
 		<h2>Full Site Coming Soon</h2>
 		<p class='blue'>In the meantime let's Tweet!</p>
 		<div class="tweet-box">

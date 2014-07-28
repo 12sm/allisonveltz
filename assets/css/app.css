@@ -89,6 +89,9 @@ border: 4px #A7A7A7;
 }
 .line-bg{background: url(../img/video-tile.jpg);}
 
+.center-text{
+   text-align: center;
+}
 /* Small devices (tablets, 768px and up) */
 @media (min-width: 768px) { }
 
