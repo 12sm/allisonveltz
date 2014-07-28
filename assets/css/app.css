@@ -79,8 +79,14 @@ border: 4px #A7A7A7;
    font-size: 14px;
    font-family: 'adriane';  
 }
-
-
+#e2ma_signup_submit_button{
+   font-family: 'abril-fatface';
+   font-size: 18px;
+   color: #BB2F7E;
+}
+#e2ma_signup_submit_button:hover{
+   color: 13A468;
+}
 
 /* Small devices (tablets, 768px and up) */
 @media (min-width: @screen-sm) { }
