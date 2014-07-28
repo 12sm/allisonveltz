@@ -34,6 +34,22 @@ h1{
 }
 .blue{
    font-family: 'ff-market-web';
+   font-size: 21px;
+   color: #13A468;
+}
+.e2ma_signup_form_label {
+display: none;
+}
+.e2ma_signup_form_element{
+   margin-left: 0px!important;
+}
+.e2ma_signup_form_row {
+width: 70%;
+margin: 0 auto;
+border: transparent!important;
+}
+.e2ma_signup_form {
+width: 100%!important;
 }
 /* ==========================================================================
    Base
