@@ -24,6 +24,9 @@ display: none!important;
 .sign-up{
    background: url(../img/sign-up.png);
 }
+a{
+   text-decoration: none;
+}
 h1, h2{
    font-family: 'abril-fatface';
 }
@@ -87,7 +90,10 @@ border: 5px solid #A7A7A7;
 #e2ma_signup_submit_button:hover{
    color: #13A468;
 }
-.line-bg{background: url(../img/video-tile.jpg);}
+.line-bg{
+   background: url(../img/video-tile.jpg);
+   padding: 3% 0px;
+}
 
 .center-text{
    text-align: center;
@@ -106,9 +112,14 @@ display: block;
 color: #BB2F7E;
 font-size: 26px;
 font-family: 'abril-fatface';
+text-decoration: none;
 }
 a#talk_btn:hover{
    color: #13A468;
+   text-decoration: none;
+}
+.page-template-template-splash-php header {
+display: none;
 }
 /* Small devices (tablets, 768px and up) */
 @media (min-width: 768px) { }
