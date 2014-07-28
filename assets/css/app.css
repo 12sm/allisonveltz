@@ -60,6 +60,25 @@ margin: 0 auto;
 width: 99%!important;
 background: transparent;
 }
+.sign-up {
+background: url(../img/sign-up.png);
+padding: 10px 25px;
+text-align: center;
+border: 4px #A7A7A7;
+}
+/* Small devices (tablets, 768px and up) */
+@media (min-width: @screen-sm) { }
+
+/* Medium devices (desktops, 992px and up) */
+@media (min-width: @screen-md) {
+.av-bg{
+   padding-top: 13%;
+   padding-bottom: 10%;
+}
+ }
+
+/* Large devices (large desktops, 1200px and up) */
+@media (min-width: @screen-lg) { }
 /* ==========================================================================
    Base
    ========================================================================== */
