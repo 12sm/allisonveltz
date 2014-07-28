@@ -127,10 +127,13 @@ display: none;
 /* Small devices (tablets, 768px and up) */
 @media (min-width: 768px) {
 #social-float>ul{
-   display: block;
+   display: block!important;
 }
 #social-float{
-   display: block;
+   display: block!important;
+}
+#social{
+   display: none;
 }
 #social-float > #menu-social-1> li {
 float: left;
