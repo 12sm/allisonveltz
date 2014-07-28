@@ -96,6 +96,20 @@ border: 5px solid #A7A7A7;
    background: url(../img/tweet-me.jpg);
 border: 5px solid #A7A7A7;
 }
+textarea#question_text {
+width: 75%;
+min-height: 150px;
+clear: both;
+}
+a#talk_btn {
+display: block;
+color: #BB2F7E;
+font-size: 26px;
+font-family: 'abril-fatface';
+}
+a#talk_btn:hover{
+   color: #13A468;
+}
 /* Small devices (tablets, 768px and up) */
 @media (min-width: 768px) { }
 
