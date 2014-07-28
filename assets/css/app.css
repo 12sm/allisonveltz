@@ -132,6 +132,12 @@ display: none;
 #social-float{
    display: block;
 }
+#social-float > #menu-social-1> li {
+float: left;
+margin-right: 22px;
+color: #fff;
+font-size: 36px;
+}
  }
 
 /* Medium devices (desktops, 992px and up) */
@@ -218,7 +224,7 @@ body { }
   } 
   
 #social-float>ul>li>a>i:hover {
-color: #E46540!important;
+color: #13A468!important;
 }
 
  #social-float>#menu-social-navigation > li:nth-child(6){
