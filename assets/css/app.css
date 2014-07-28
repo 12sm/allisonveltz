@@ -69,7 +69,7 @@ background: transparent;
 background: url(../img/sign-up.png);
 padding: 10px 25px;
 text-align: center;
-border: 4px #A7A7A7;
+border: 5px solid #A7A7A7;
 }
 ::-webkit-input-placeholder,
 :-moz-placeholder,
@@ -91,6 +91,10 @@ border: 4px #A7A7A7;
 
 .center-text{
    text-align: center;
+}
+.tweet-box{
+   background: url(../img/tweet-me.jpg);
+border: 5px solid #A7A7A7;
 }
 /* Small devices (tablets, 768px and up) */
 @media (min-width: 768px) { }
