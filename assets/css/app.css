@@ -16,7 +16,7 @@ div#e2ma_signup_message {
 display: none;
 }
 input#e2ma_signup_reset_button{
-   display: none;
+   display: none!important;
 }
 .e2ma_signup_form_required_footnote {
 display: none!important;
@@ -50,6 +50,9 @@ border: transparent!important;
 }
 .e2ma_signup_form {
 width: 100%!important;
+}
+.e2ma_signup_form_button_row {
+ float: none!important; 
 }
 /* ==========================================================================
    Base
