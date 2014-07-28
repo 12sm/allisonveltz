@@ -21,6 +21,9 @@ input#e2ma_signup_reset_button{
 .e2ma_signup_form_required_footnote {
 display: none;
 }
+.sign-up{
+   background: url(../img/sign-up.png);
+}
 /* ==========================================================================
    Base
    ========================================================================== */
