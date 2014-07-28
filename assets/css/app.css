@@ -71,6 +71,17 @@ padding: 10px 25px;
 text-align: center;
 border: 4px #A7A7A7;
 }
+::-webkit-input-placeholder,
+:-moz-placeholder,
+::-moz-placeholder,
+:-ms-input-placeholder {  
+   color: #635562;
+   font-size: 14px;
+   font-family: 'adriane';  
+}
+
+
+
 /* Small devices (tablets, 768px and up) */
 @media (min-width: @screen-sm) { }
 
