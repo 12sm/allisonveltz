@@ -89,10 +89,10 @@ border: 4px #A7A7A7;
 }
 
 /* Small devices (tablets, 768px and up) */
-@media (min-width: @screen-sm) { }
+@media (min-width: 768px) { }
 
 /* Medium devices (desktops, 992px and up) */
-@media (min-width: @screen-md) {
+@media (min-width: 992px) {
 .av-bg{
    padding-top: 13%;
    padding-bottom: 10%;
@@ -100,7 +100,7 @@ border: 4px #A7A7A7;
  }
 
 /* Large devices (large desktops, 1200px and up) */
-@media (min-width: @screen-lg) { }
+@media (min-width: 1200px) { }
 /* ==========================================================================
    Base
    ========================================================================== */
