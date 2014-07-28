@@ -2,7 +2,25 @@
  * Roots 6.5.0
  */
 
-
+/* ==========================================================================
+   Splash
+   ========================================================================== */
+div#e2ma_signup_image_container {
+display: none;
+}
+.av-bg{
+   background: url(../img/top-photo.jpg) no-repeat;
+   background-size: cover;
+}
+div#e2ma_signup_message {
+display: none;
+}
+input#e2ma_signup_reset_button{
+   display: none;
+}
+.e2ma_signup_form_required_footnote {
+display: none;
+}
 /* ==========================================================================
    Base
    ========================================================================== */
