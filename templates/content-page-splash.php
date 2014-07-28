@@ -24,7 +24,7 @@
 		<h2>Full Site Coming Soon</h2>
 		<p class='blue'>In the meantime let's Tweet!</p>
 		<div class="tweet-box">
-		<textarea id="question_text" type="text">#TALKTOLIZ Type here to send me a message! @elizabethhuett</textarea><a id="talk_btn" href="https://twitter.com/intent/tweet">TALK</a>
+		<textarea id="question_text" type="text">Talk to Allison! #brightside</textarea><a id="talk_btn" href="https://twitter.com/intent/tweet"><i class='fa fa-twitter'></i>{Tweet Me!}</a>
 		</div>
 	</div>
 </div>
