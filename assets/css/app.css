@@ -25,7 +25,15 @@ display: none!important;
    background: url(../img/sign-up.png);
 }
 h1, h2{
-   font-family: 'abril-fatface'
+   font-family: 'abril-fatface';
+}
+h1{
+   font-size: 38px;
+   color: #BB2F7E;
+   font-style: italic;
+}
+.blue{
+   font-family: 'ff-market-web';
 }
 /* ==========================================================================
    Base
