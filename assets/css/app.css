@@ -54,6 +54,12 @@ width: 100%!important;
 .e2ma_signup_form_button_row {
  float: none!important; 
 }
+input#e2ma_signup_submit_button {
+border: transparent;
+margin: 0 auto;
+width: 99%!important;
+background: transparent;
+}
 /* ==========================================================================
    Base
    ========================================================================== */
