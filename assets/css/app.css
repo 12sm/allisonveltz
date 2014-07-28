@@ -19,10 +19,13 @@ input#e2ma_signup_reset_button{
    display: none;
 }
 .e2ma_signup_form_required_footnote {
-display: none;
+display: none!important;
 }
 .sign-up{
    background: url(../img/sign-up.png);
+}
+h1, h2{
+   font-family: 'abril-fatface'
 }
 /* ==========================================================================
    Base
