@@ -26,6 +26,7 @@ var Roots = {
       $("#id_email").attr("placeholder", "Email");
       $("#id_member_field_postal_code").attr("placeholder", "Zip Code");
       $('#e2ma_signup_submit_button').attr('value', '{ Sign me up! }');
+      $('.vid-container').fitVids();
     }
   },
   // Home page

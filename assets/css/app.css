@@ -87,6 +87,7 @@ border: 4px #A7A7A7;
 #e2ma_signup_submit_button:hover{
    color: #13A468;
 }
+.line-bg{background: url(../img/video-tile.jpg);}
 
 /* Small devices (tablets, 768px and up) */
 @media (min-width: 768px) { }
