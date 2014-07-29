@@ -31,6 +31,10 @@ a{
    color: #BB2F7E;
    text-decoration: none;
 }
+a:hover{
+   color: #13A468;
+   text-decoration: none;
+}
 h1, h2{
    font-family: 'abril-fatface';
 }
