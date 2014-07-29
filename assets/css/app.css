@@ -8,10 +8,11 @@
 div#e2ma_signup_image_container {
 display: none;
 }
-.av-bg{
-   background: url(../img/top-photo.jpg) no-repeat;
-   background-size: cover;
+.av-bg {
+padding-top: 200px;
+background-size: contain;
 }
+
 div#e2ma_signup_message {
 display: none;
 }
@@ -130,6 +131,10 @@ display: none;
 }
 /* Small devices (tablets, 768px and up) */
 @media (min-width: 768px) {
+   .av-bg{
+   background: url(../img/top-photo.jpg) no-repeat;
+   background-size: cover;
+}
 #social-float>ul{
    display: block!important;
 }
