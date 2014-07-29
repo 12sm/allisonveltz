@@ -11,6 +11,7 @@ display: none;
 .av-bg {
 padding-top: 200px;
 background-size: contain;
+background: url(../img/top-photo.jpg) no-repeat;
 }
 
 div#e2ma_signup_message {
@@ -132,7 +133,6 @@ display: none;
 /* Small devices (tablets, 768px and up) */
 @media (min-width: 768px) {
    .av-bg{
-   background: url(../img/top-photo.jpg) no-repeat;
    background-size: cover;
 }
 #social-float>ul{
