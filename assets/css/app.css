@@ -10,6 +10,7 @@ display: none;
 }
 .av-bg {
 padding-top: 200px;
+padding-bottom: 20px;
 background: url(../img/top-photo.jpg) no-repeat;
 background-size: contain;
 }
@@ -226,7 +227,7 @@ body { }
 
 .content-info { }
 
-#social ul {margin:0px; padding:0px; list-style: none;}
+#social ul {margin: 0 auto; width: 50%; padding:0px; list-style: none;}
 #social li {margin:0px; padding: 0px list-style:none; display: block; float:left;}
 #social li a {padding: 10px;}
 
@@ -237,7 +238,9 @@ body { }
    color: #fff;
    text-decoration: none;
   } 
-  
+  .credits{
+   text-align: center;
+  }
 #social-float>ul>li>a>i:hover {
 color: #13A468!important;
 }
