@@ -10,8 +10,8 @@ display: none;
 }
 .av-bg {
 padding-top: 200px;
-background-size: contain;
 background: url(../img/top-photo.jpg) no-repeat;
+background-size: contain;
 }
 
 div#e2ma_signup_message {
