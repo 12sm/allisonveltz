@@ -24,8 +24,7 @@
 		<h2>Full Site Coming Soon</h2>
 		<p class='blue'>In the meantime let's Tweet!</p>
 		<div class="tweet-box">
-		<textarea id="question_text" type="text">#brightside Talk to Allison!  
-		@AllisonVeltz</textarea>
+		<textarea id="question_text" type="text">#brightside Talk to Allison! @AllisonVeltz</textarea>
 		<a id="talk_btn" target="_blank" href="https://twitter.com/intent/tweet"><i class='fa fa-twitter'></i> {Tweet Me!} </a>
 		</div>
 	</div>
