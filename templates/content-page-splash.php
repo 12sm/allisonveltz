@@ -1,7 +1,7 @@
 <div class="row av-bg">
-	<div class='col-sm-9'>
+	<div class='col-lg-9 col-sm-7'>
 	</div>
-	<div class='col-sm-3'>
+	<div class='col-lg-3 col-sm-5'>
 		<div class="sign-up">
 			<h2>Sign Up!</h2>
 			<p class='blue'>Keep up to date with the latest music, videos, & more.</p>
