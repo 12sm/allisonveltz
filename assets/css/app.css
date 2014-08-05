@@ -48,6 +48,11 @@ h2{
    color: #BB2F7E;
    font-style: italic;
 }
+h3{
+   font-size: 30px;
+   color: #BB2F7E;
+   font-style: italic;
+}
 .blue{
    font-family: 'ff-market-web';
    font-size: 21px;
@@ -68,7 +73,7 @@ border: transparent!important;
 width: 100%!important;
 }
 .e2ma_signup_form_button_row {
- float: none!important; 
+ float: none!important;
 }
 input#e2ma_signup_submit_button {
 border: transparent;
@@ -85,10 +90,10 @@ border: 5px solid #A7A7A7;
 ::-webkit-input-placeholder,
 :-moz-placeholder,
 ::-moz-placeholder,
-:-ms-input-placeholder {  
+:-ms-input-placeholder {
    color: #635562;
    font-size: 14px;
-   font-family: 'adriane';  
+   font-family: 'adriane';
 }
 #e2ma_signup_submit_button{
    font-family: 'abril-fatface';
@@ -248,7 +253,7 @@ body { }
   #social-float>ul>li>a>i{
    color: #fff;
    text-decoration: none;
-  } 
+  }
   .credits{
    text-align: center;
   }
