@@ -141,6 +141,18 @@ display: none;
 .bottom-row{
    padding: 5% 0px;
 }
+ul#menu-social {
+padding-left: 0px;
+list-style: none;
+max-width: 500px;
+margin: 0 auto;
+text-align: center;
+}
+#menu-social>li {
+display: inline-block;
+text-align: center;
+padding: 0px 10px;
+}
 /* Small devices (tablets, 768px and up) */
 @media (min-width: 768px) {
    .av-bg{
